@@ -7,9 +7,9 @@ export default function Logo() {
       <Image
         src={logo}
         alt="Saveiros Logo"
-        width={100}
-        height={35}
-        className="h-8 w-auto"
+        width={150}
+        height={52}
+        className="h-12 w-auto"
         priority
       />
     </div>
